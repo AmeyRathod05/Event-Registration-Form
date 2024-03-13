@@ -1,6 +1,6 @@
 # Event-Registration-Form
 
-Used Node.js and the Express framework to build a simple registration form with basic validation, which persists its data to a MongoDB database. added a view to list successful registration, which we’ll protect with basic HTTP authentication, also used Bootstrap to add some styling.
+Used Node.js and the Express framework to build a simple registration form with basic validation, which persists its data to a MongoDB database. added a view to list successful registration, which protects the basic HTTP authentication, also used Bootstrap to add some styling.
 
 
 ![Screenshot 2024-03-13 200644](https://github.com/AmeyRathod05/Event-Registration-Form/assets/127238907/13b83b0f-f4d8-431a-b9ab-560de9d2ff73)
